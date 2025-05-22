@@ -4,5 +4,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [1317-monthly-transactions-i](https://github.com/jaya367132/Leet_code_soln/tree/master/1317-monthly-transactions-i) |
 | [2087-confirmation-rate](https://github.com/jaya367132/Leet_code_soln/tree/master/2087-confirmation-rate) |
 <!---LeetCode Topics End-->
