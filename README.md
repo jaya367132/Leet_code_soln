@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1278-product-price-at-a-given-date](https://github.com/jaya367132/Leet_code_soln/tree/master/1278-product-price-at-a-given-date) |
 | [1317-monthly-transactions-i](https://github.com/jaya367132/Leet_code_soln/tree/master/1317-monthly-transactions-i) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/jaya367132/Leet_code_soln/tree/master/1327-last-person-to-fit-in-the-bus) |
+| [1480-movie-rating](https://github.com/jaya367132/Leet_code_soln/tree/master/1480-movie-rating) |
 | [1670-patients-with-a-condition](https://github.com/jaya367132/Leet_code_soln/tree/master/1670-patients-with-a-condition) |
 | [1811-fix-names-in-a-table](https://github.com/jaya367132/Leet_code_soln/tree/master/1811-fix-names-in-a-table) |
 | [1942-primary-department-for-each-employee](https://github.com/jaya367132/Leet_code_soln/tree/master/1942-primary-department-for-each-employee) |
