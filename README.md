@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0180-consecutive-numbers](https://github.com/jaya367132/Leet_code_soln/tree/master/0180-consecutive-numbers) |
 | [0610-triangle-judgement](https://github.com/jaya367132/Leet_code_soln/tree/master/0610-triangle-judgement) |
+| [0626-exchange-seats](https://github.com/jaya367132/Leet_code_soln/tree/master/0626-exchange-seats) |
 | [1278-product-price-at-a-given-date](https://github.com/jaya367132/Leet_code_soln/tree/master/1278-product-price-at-a-given-date) |
 | [1317-monthly-transactions-i](https://github.com/jaya367132/Leet_code_soln/tree/master/1317-monthly-transactions-i) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/jaya367132/Leet_code_soln/tree/master/1327-last-person-to-fit-in-the-bus) |
