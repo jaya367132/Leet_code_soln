@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0626-exchange-seats](https://github.com/jaya367132/Leet_code_soln/tree/master/0626-exchange-seats) |
 | [1161-project-employees-i](https://github.com/jaya367132/Leet_code_soln/tree/master/1161-project-employees-i) |
 | [1278-product-price-at-a-given-date](https://github.com/jaya367132/Leet_code_soln/tree/master/1278-product-price-at-a-given-date) |
+| [1292-immediate-food-delivery-ii](https://github.com/jaya367132/Leet_code_soln/tree/master/1292-immediate-food-delivery-ii) |
 | [1317-monthly-transactions-i](https://github.com/jaya367132/Leet_code_soln/tree/master/1317-monthly-transactions-i) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/jaya367132/Leet_code_soln/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1338-queries-quality-and-percentage](https://github.com/jaya367132/Leet_code_soln/tree/master/1338-queries-quality-and-percentage) |
