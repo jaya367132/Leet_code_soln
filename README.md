@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/jaya367132/Leet_code_soln/tree/master/0595-big-countries) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/jaya367132/Leet_code_soln/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0610-triangle-judgement](https://github.com/jaya367132/Leet_code_soln/tree/master/0610-triangle-judgement) |
+| [0620-not-boring-movies](https://github.com/jaya367132/Leet_code_soln/tree/master/0620-not-boring-movies) |
 | [0626-exchange-seats](https://github.com/jaya367132/Leet_code_soln/tree/master/0626-exchange-seats) |
 | [1161-project-employees-i](https://github.com/jaya367132/Leet_code_soln/tree/master/1161-project-employees-i) |
 | [1278-product-price-at-a-given-date](https://github.com/jaya367132/Leet_code_soln/tree/master/1278-product-price-at-a-given-date) |
